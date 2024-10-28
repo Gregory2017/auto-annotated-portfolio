@@ -12,7 +12,9 @@ backgroundImage:
 sections:
   - type: ContactSection
     title: My Success NMT Probation
-    text: I'm look forward to hearing from you.
+    text: |+
+      Henry Ford: "I want it and I'm going to have it"
+
     form:
       type: FormBlock
       title: Title of the form
