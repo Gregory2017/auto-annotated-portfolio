@@ -28,7 +28,7 @@ sections:
           isRequired: 'true'
         - type: EmailFormControl
           name: Surname
-          label: Grade
+          label: Email
           hideLabel: false
           placeholder: Your grade
           width: 1/2
