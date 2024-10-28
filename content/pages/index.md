@@ -78,7 +78,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: NMT Test (English B1)
+    title: NMT Test (English B1+)
     subtitle: ''
     styles:
       self:
