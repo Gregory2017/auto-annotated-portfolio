@@ -30,7 +30,7 @@ sections:
           name: Surname
           label: Grade
           hideLabel: false
-          placeholder: Your email
+          placeholder: Your grade
           width: 1/2
           isRequired: 'true'
       submitLabel: Send Message
