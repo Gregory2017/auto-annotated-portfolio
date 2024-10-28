@@ -96,7 +96,12 @@ sections:
     type: HeroSection
     actions:
       - type: Button
-        label: Learn more
+        label: >-
+          32.                                                      A
+          spoiled                                       B
+          mixed                                                                                                                                                                 
+          C missed                                            D
+          corrupted                                                                                 
         altText: ''
         url: /
         showIcon: false
