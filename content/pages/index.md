@@ -21,7 +21,7 @@ sections:
       fields:
         - type: TextFormControl
           name: name
-          label: Name
+          label: Name Surname
           hideLabel: false
           placeholder: Your name
           width: 1/2
