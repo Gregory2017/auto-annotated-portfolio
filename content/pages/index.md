@@ -60,7 +60,7 @@ sections:
           width: 1/2
           isRequired: 'true'
         - type: EmailFormControl
-          name: email
+          name: Surname
           label: Name
           hideLabel: false
           placeholder: Your email
