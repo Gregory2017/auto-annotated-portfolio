@@ -69,7 +69,7 @@ sections:
         - type: TextareaFormControl
           name: message
           label: 'Comments:'
-          hideLabel: true
+          hideLabel: false
           placeholder: Tell me about your project
           width: full
           isRequired: true
