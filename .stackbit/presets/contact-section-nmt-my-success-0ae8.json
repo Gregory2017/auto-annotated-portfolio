@@ -1,0 +1,87 @@
+{
+    "model": "ContactSection",
+    "srcType": "git",
+    "srcProjectId": "9a0364b9",
+    "presets": [
+        {
+            "label": "NMT My Success",
+            "locale": null,
+            "metadata": {
+                "categories": [
+                    "Test"
+                ],
+                "canDelete": true
+            },
+            "data": {
+                "title": "My Success NMT Probation",
+                "text": "Henry Ford: \"I want it and I'm going to have it\"\n\n",
+                "form": {
+                    "$$type": "FormBlock",
+                    "title": "Title of the form",
+                    "fields": [
+                        {
+                            "$$type": "TextFormControl",
+                            "name": "name",
+                            "label": "Name Surname",
+                            "hideLabel": false,
+                            "placeholder": "Your name",
+                            "width": "1/2",
+                            "isRequired": "true"
+                        },
+                        {
+                            "$$type": "EmailFormControl",
+                            "name": "Surname",
+                            "label": "Grade",
+                            "hideLabel": false,
+                            "placeholder": "Your grade",
+                            "width": "1/2",
+                            "isRequired": "true"
+                        }
+                    ],
+                    "submitLabel": "Send Message",
+                    "elementId": "contact-form",
+                    "styles": {
+                        "submitLabel": {
+                            "textAlign": "left"
+                        }
+                    }
+                },
+                "media": {
+                    "$$type": "ImageBlock",
+                    "url": {
+                        "$$ref": "stackbit_asset_id:static:public/images/contact.jpg",
+                        "$$type": "__asset_model"
+                    },
+                    "altText": "Contact form image",
+                    "caption": "Caption of the image",
+                    "elementId": ""
+                },
+                "colors": "colors-d",
+                "backgroundSize": "full",
+                "elementId": "",
+                "styles": {
+                    "self": {
+                        "height": "auto",
+                        "width": "wide",
+                        "padding": [
+                            "pt-28",
+                            "pb-36",
+                            "pl-4",
+                            "pr-4"
+                        ],
+                        "alignItems": "center",
+                        "justifyContent": "center",
+                        "flexDirection": "row"
+                    },
+                    "title": {
+                        "textAlign": "left"
+                    },
+                    "text": {
+                        "textAlign": "left"
+                    }
+                }
+            },
+            "thumbnail": "images/contact-section-nmt-my-success-0ae8.png"
+        }
+    ]
+}
